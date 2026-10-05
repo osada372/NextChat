@@ -1,5 +1,0 @@
-name = "nextchat-app"
-compatibility_date = "2024-10-06"
-
-[assets]
-directory = ".next"
